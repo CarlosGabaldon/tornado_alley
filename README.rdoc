@@ -1,10 +1,10 @@
 = Tornado Alley
 
-  Test app to explore Tornado: [http://www.tornadoweb.org/]
+  Test app to explore Tornado: [link:http://www.tornadoweb.org/]
 
   Copyright (c) 2012 Carlos Gabaldon <carlosgabaldon.com>, released under the MIT license
  
-  Follow the details at: [http://carlosgabaldon.com/articles/storm-chasing-tornado/]
+  Follow the details at: [link:http://carlosgabaldon.com/articles/storm-chasing-tornado/]
               
   
 
