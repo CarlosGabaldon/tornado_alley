@@ -1,0 +1,13 @@
+= Storm Chasing Tornado
+
+  Test app to explore Tornado: http://www.tornadoweb.org/
+
+  Copyright (c) 2012 Carlos Gabaldon <carlosgabaldon.com>, released under the MIT license
+ 
+  Follow the details at: http://carlosgabaldon.com/articles/storm-chasing-tornado/
+              
+  
+
+
+
+
